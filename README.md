@@ -11,7 +11,9 @@ Inculding data of recent publication with social media involved, and their metho
 
 **Description of dataset**
 
-There data is collected by Doris from Oct 2021 to Nov 2021. All the artical is avaible online. The dataset including article's name, its source, research field, the purpose of study, article Doi, design of the study, social media component (description of the social media data collection method), outcome (eg., the number of participants recruited), data costs/ USD (any financial charges to the researchers for using social media tools), task length/ min. [Row Data](Research_Paper.csv)
+There data is collected by Doris from Oct 2021 to Nov 2021. All the artical is avaible online. The dataset including article's name, its source, research field, the purpose of study, article Doi, design of the study, social media component (description of the social media data collection method), outcome (eg., the number of participants recruited), data costs/ USD (any financial charges to the researchers for using social media tools), task length/ min. 
+[Row Data](Research_Paper.csv)
+
 ---
 **General Introduction of Social Science Research Medthod**
 Data Collection: Case study, Survey and Questionnaires, Observation, Available Data, Experiment 
